@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+body {
+	background-color: #fff599;
+}
+h1  {
+	font-size: 40px;
+	color: #ff0000;
+	position: fixed;
+	bottom: 100px;
+	right: 10px;
+	width: 400px;
+	background-color: white;
+}
+
+.name {
+	background-color: #32EEFF;
+	font-size: 30px;
+	margin: 10px
+}
